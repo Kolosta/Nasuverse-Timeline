@@ -59,6 +59,18 @@ The PNG version is intended for quick viewing, while the PDF and SVG versions ar
 * However, **Inkscape** is the recommended software for viewing the SVG, especially if you want to zoom beyond 500% or navigate the timeline smoothly.
 * Web browsers may take several seconds to re-render a large SVG after each zoom or pan.
 
+## Downloads
+
+The full-resolution versions are available here:
+
+- [PDF version](https://github.com/Kolosta/Nasuverse-Timeline/releases/download/v1.0/Timeline.Fate.PDF.pdf)
+- [SVG version](https://github.com/Kolosta/Nasuverse-Timeline/releases/download/v1.0/Timeline.Fate.SVG.svg)
+- [PNG version](https://github.com/Kolosta/Nasuverse-Timeline/releases/download/v1.0/Timeline.Fate.JPEG.V4.jpg)
+- [JPEG version](https://github.com/Kolosta/Nasuverse-Timeline/releases/download/v1.0/Timeline.Fate.V4.png)
+
+Or on the latest release tag :
+- [Latest release](https://github.com/Kolosta/Nasuverse-Timeline/releases/tag/v1.0)
+
 ## Feedback and Contributions
 
 If you notice any mistakes, missing works, or inaccuracies, feel free to open an issue or suggest corrections.
